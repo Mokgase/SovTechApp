@@ -12,7 +12,7 @@ class Contact extends Component {
                 <img id="contactimg" src={contact} width="180" height="180" alt="contactlogo"/>
                 <h3> <strong>Thapelo Mokgase Mmakola</strong></h3>
                 <a id="mail "href="https://mail.google.com/mail/?view=cm&fs=1&to=tmmakola021@student.wethinkcode.co.za">How do you take your coffee?</a>
-                <h4>Contant Info: +27678787907</h4>
+                <h4>Contant Info: +27 678 787 907</h4>
 
        
                         <a href="https://github.com/Mokgase">
